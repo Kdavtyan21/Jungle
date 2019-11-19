@@ -25,3 +25,12 @@ More information in their docs: <https://stripe.com/docs/testing#cards>
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
 * PostgreSQL 9.x
 * Stripe
+* Capybara
+* Poltergeist
+* Bootstrap-sass ~> 3.3.6
+* Font-awesome-rails
+* Money-rails
+* Carrierwave
+* rmagick
+* stripe
+* faker
