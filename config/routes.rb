@@ -18,7 +18,7 @@ Rails.application.routes.draw do
   post '/login' => 'session#create'
   get '/logout' => 'session#destroy'
 
-  get '/signup' => 'users#new'
+  get '/register' => 'users#new'
   post '/users' => 'users#create'
 
   resources :orders, only: [:create, :show]
