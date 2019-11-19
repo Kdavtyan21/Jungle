@@ -20,6 +20,10 @@ Use Credit Card # 4111 1111 1111 1111 for testing success scenarios.
 
 More information in their docs: <https://stripe.com/docs/testing#cards>
 
+## Screenshot
+
+!["Add to cart page"](https://github.com/Kdavtyan21/Jungle/blob/master/docs/add_to_cart.png)
+
 ## Dependencies
 
 * Rails 4.2 [Rails Guide](http://guides.rubyonrails.org/v4.2/)
